@@ -1,6 +1,5 @@
-import postData from  "../data/posts.json";
 import images from "../images/index.js"
-import React, { useState } from "react";
+import React from "react";
 
 
 export default function Posts({posts}) {

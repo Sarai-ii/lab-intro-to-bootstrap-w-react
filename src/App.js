@@ -35,7 +35,7 @@ function App() {
         <form className="container form-group d-flex align-items-center" onChange={handleSearchBar}>
           <label>Search posts by location... </label>
           <input className="form-control" type="search"/>
-          <button className="btn btn-warning p-1 m-2"type="submit">Cancel</button>
+          <button className="btn btn-warning p-1 m-2" type="submit">Cancel</button>
         </form>
          
         <div className="col-8">
